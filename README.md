@@ -14,4 +14,6 @@ We were born on Slack as a workspace because we wanted to be an active community
 
 ### For Support or Contact Us
 
-Having trouble with this page, code examples or you have a question? Contact us on Slack at [tichaiti.slack.org](http://join.tichaiti.org).
+Having trouble with this page, our code examples/samples or you have a question? 
+
+Contact us on Slack at [tichaiti.slack.org](http://join.tichaiti.org).
