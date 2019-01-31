@@ -1,19 +1,21 @@
-## Welcome to TIChaiti Page
+[[English Version](en/README.md)]
 
-We were born on Slack as a workspace because we wanted to be an active community, a Haitian-in-Tech community that's doing, sharing and discussing all the latest Information Technologies.
+## On&egrave; pou ou sou paj TIChaiti
+
+Nou se yon group moun ki grandi nan yon espas sou Slack pou rezon ki simp, nou vle ke nou se yon kominote aktif -- yon kominote Ayisyan ki nan Teknoloji ki ap angaje, pataje epi pale de tout d&egrave;nye Teknoloji Enf&ograve;matik yo.
 
 [join.tichaiti.org](http://join.tichaiti.org)
 
 
-## Wanna keep up with us and stay in the loop
+## Si'w vle pran nouv&egrave;l nou epi gade sa n'ap f&egrave; 
 
-- we hang on Slack: [tichaiti.slack.org](http://join.tichaiti.org)
-- we organize on Trello: [trello.com/tichaiti](https://trello.com/tichaiti)
-- we code on Github: [github.com/tichaiti](https://github.com/tichaiti)
-- we present on Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
+- bon, nou toujou sou Slack: [tichaiti.slack.org](http://join.tichaiti.org)
+- nou oganize nou sou Trello: [trello.com/tichaiti](https://trello.com/tichaiti)
+- nou kode sou Github: [github.com/tichaiti](https://github.com/tichaiti)
+- epi prezantasyon nou f&egrave;t sou Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
 
-### For Support or Contact Us
+### Sip&ograve; ak kontak
 
-Having trouble with this page, our code examples/samples or you have a question? 
+Pou tout pwobl&egrave;m, ak paj sa'a, ezanp yo  oubyen kesyon? 
 
-Contact us on Slack at [tichaiti.slack.org](http://join.tichaiti.org).
+Tyeke nou sou Slack nan adr&egrave;s sa [tichaiti.slack.org](http://join.tichaiti.org).
