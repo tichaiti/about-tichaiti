@@ -1,6 +1,6 @@
 ## Welcome to TIChaiti Page
 
-We were born on Slack as a workspace because we wanted to be an active community, a Haitian in Tech community that's doing, sharing and discuss all the latest Information Technologies.
+We were born on Slack as a workspace because we wanted to be an active community, a Haitian in Tech community that's doing, sharing and discussing all the latest Information Technologies.
 
 [join.tichaiti.org](http://join.tichaiti.org)
 
