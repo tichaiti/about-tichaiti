@@ -7,10 +7,10 @@ We were born on Slack as a workspace because we wanted to be an active community
 
 ## Wanna keep up with us and stay in the loop
 
-- we hang on Slack: [tichaiti.slack.org](http://join.tichaiti.org)
+- well, we hang on Slack: [tichaiti.slack.org](http://join.tichaiti.org)
 - we organize on Trello: [trello.com/tichaiti](https://trello.com/tichaiti)
 - we code on Github: [github.com/tichaiti](https://github.com/tichaiti)
-- we present on Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
+- and we present on Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
 
 ### For Support or Contact Us
 
