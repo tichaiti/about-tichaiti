@@ -4,6 +4,7 @@ We were born on Slack as a workspace because we wanted to be an active community
 
 [join.tichaiti.org](http://join.tichaiti.org)
 
+
 ## Wanna keep up with us and stay in the loop
 
 - we hang on Slack: [tichaiti.slack.org](http://join.tichaiti.org)
