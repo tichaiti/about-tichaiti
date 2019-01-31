@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to TIChaiti Page
 
-You can use the [editor on GitHub](https://github.com/tichaiti/tichaiti-initiatives-about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We were born on Slack as a workspace because we wanted to be an active community, a Haitian in Tech community that's doing, sharing and discuss all the latest Information Technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[join.tichaiti.org](http://join.tichaiti.org)
 
-### Markdown
+## Wanna keep up with us and stay in the loop
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- we hang on Slack: [tichaiti.slack.org](http://join.tichaiti.org)
+- we organize on Trello: [trello.com/tichaiti](https://trello.com/tichaiti)
+- we code on Github: [github.com/tichaiti](https://github.com/tichaiti)
+- we present on Youtube: [tichahti](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
 
-```markdown
-Syntax highlighted code block
+### For Support or Contact Us
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tichaiti/tichaiti-initiatives-about/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with this page, code examples or you have a question? Contact us on Slack at [tichaiti.slack.org](http://join.tichaiti.org).
