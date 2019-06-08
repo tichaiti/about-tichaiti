@@ -9,7 +9,7 @@ Nou se yon group moun ki grandi nan yon espas sou Slack pou rezon ki simp, nou v
 
 ## Si'w vle pran nouv&egrave;l nou epi gade sa n'ap f&egrave; 
 
-- bon, nou toujou sou Slack: [slack.tichaiti.dev](https://slack.tichaiti.dev)
+- nou toujou sou Slack: [slack.tichaiti.dev](https://slack.tichaiti.dev)
 - nou oganize nou sou Trello: [trello.com/tichaiti](https://trello.com/tichaiti)
 - nou kode sou Github: [github.com/tichaiti](https://github.com/tichaiti)
 - epi prezantasyon nou f&egrave;t sou Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
