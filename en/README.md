@@ -1,4 +1,4 @@
-## Welcome to TIChaiti Page
+## Welcome to tichaiti Page
 
 We were born on Slack as a workspace because we wanted to be an active community, a Haitian-in-Tech community that's doing, sharing and discussing all the latest Information Technologies.
 
@@ -7,7 +7,7 @@ We were born on Slack as a workspace because we wanted to be an active community
 
 ## Wanna keep up with us and stay in the loop
 
-- well, we hang on Slack: [tichaiti.slack.com](http://join.tichaiti.dev)
+- we hang on Slack: [slack.tichaiti.dev](https://slack.tichaiti.dev)
 - we organize on Trello: [trello.com/tichaiti](https://trello.com/tichaiti)
 - we code on Github: [github.com/tichaiti](https://github.com/tichaiti)
 - and we present on Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
@@ -16,4 +16,4 @@ We were born on Slack as a workspace because we wanted to be an active community
 
 Having trouble with this page, our code examples/samples or you have a question? 
 
-Contact us on Slack at [tichaiti.slack.com](http://join.tichaiti.dev).
+Contact us on Slack at [slack.tichaiti.dev](https://slack.tichaiti.dev).
