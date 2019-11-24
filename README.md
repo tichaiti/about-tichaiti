@@ -1,5 +1,8 @@
 [[English Version](en/README.md)]
 
+# _t.i.c. haiti_
+technologie de l'information et de la communication #haiti ['for Haiti', 'in Haiti', 'for Haitians', 'with Haitians']
+
 ## On&egrave; pou ou sou paj tichaiti
 
 Nou se yon group moun ki grandi nan yon espas sou Slack pou rezon ki simp, nou vle ke nou se yon kominote aktif -- yon kominote Ayisyan ki nan Teknoloji ki ap angaje, pataje epi pale de tout d&egrave;nye Teknoloji Enf&ograve;matik yo.
