@@ -1,7 +1,8 @@
 [[English Version](en/README.md)]
 
 # _t.i.c. haiti_
-technologie de l'information et de la communication #haiti ['for Haiti', 'in Haiti', 'for Haitians', 'with Haitians']
+- *t*echnologie de l'*i*nformation et de la *c*ommunication 
+- #haiti ['pou Ayiti', 'an Haiti', 'pou Ayisyen', 'av&egrave;k Ayisyen']
 
 ## On&egrave; pou ou sou paj tichaiti
 
@@ -19,6 +20,6 @@ Nou se yon group moun ki grandi nan yon espas sou Slack pou rezon ki simp, nou v
 
 ### Sip&ograve; ak kontak
 
-Pou tout pwobl&egrave;m, ak paj sa'a, ezanp yo  oubyen kesyon? 
+Pou tout pwobl&egrave;m, ak ezanp sou github oubyen kesyon? 
 
 Tyeke nou sou Slack nan adr&egrave;s sa [slack.tichaiti.dev](https://slack.tichaiti.dev).

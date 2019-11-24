@@ -1,3 +1,8 @@
+# _t.i.c. haiti_
+- *t*echnologie de l'*i*nformation et de la *c*ommunication 
+- #haiti ['for Haiti', 'in Haiti', 'for Haitians', 'with Haitians']
+
+
 ## Welcome to tichaiti Page
 
 We were born on Slack as a workspace because we wanted to be an active community, a Haitian-in-Tech community that's doing, sharing and discussing all the latest Information Technologies.
@@ -14,6 +19,6 @@ We were born on Slack as a workspace because we wanted to be an active community
 
 ### For Support or Contact Us
 
-Having trouble with this page, our code examples/samples or you have a question? 
+Having trouble with tech, our code examples/samples on github or you have a question? 
 
 Contact us on Slack at [slack.tichaiti.dev](https://slack.tichaiti.dev).
