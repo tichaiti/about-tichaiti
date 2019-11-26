@@ -1,6 +1,6 @@
-# _t.i.c. haiti_
-- *t*echnologie de l'*i*nformation et de la *c*ommunication 
-- #haiti ['for Haiti', 'in Haiti', 'for Haitians', 'with Haitians']
+# _#tic #haiti_
+- technologie de l'information et de la communication 
+- haiti ['for Haiti', 'in Haiti', 'for Haitians', 'with Haitians']
 
 ![Slack Channels](../media/slack_banner.png)
 
