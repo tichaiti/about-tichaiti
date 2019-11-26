@@ -1,8 +1,10 @@
 [[English Version](en/README.md)]
 
-# _t.i.c. haiti_
-- *t*echnologie de l'*i*nformation et de la *c*ommunication 
+# _#tic #haiti_
+- <b>t</b>echnologie de l'<b>i</b>nformation et de la <b>c</b>ommunication 
 - #haiti ['pou Ayiti', 'an Haiti', 'pou Ayisyen', 'av&egrave;k Ayisyen']
+
+![Slack Channels](./media/slack_banner.png)
 
 ## On&egrave; pou ou sou paj tichaiti
 

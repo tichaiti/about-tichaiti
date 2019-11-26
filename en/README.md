@@ -2,6 +2,7 @@
 - *t*echnologie de l'*i*nformation et de la *c*ommunication 
 - #haiti ['for Haiti', 'in Haiti', 'for Haitians', 'with Haitians']
 
+![Slack Channels](../media/slack_banner.png)
 
 ## Welcome to tichaiti Page
 
