@@ -32,26 +32,26 @@ A series of live chit-chats on *"software development beyong programming laguage
 
 ### 2019 schedule
 
-#### 12.07 [Kisa ki “Pull Request” ye?](https://youtu.be/XzhT5BVerG4)
+#### 12-07 [Kisa ki “Pull Request” ye?](https://youtu.be/XzhT5BVerG4)
 * technical demo
 
-#### 11.16 [Kisa ki “Code Review” ye?](https://youtu.be/GiWwfnzWVIA)
+#### 11-16 [Kisa ki “Code Review” ye?](https://youtu.be/GiWwfnzWVIA)
 * technical demo
 
-### 11.02 [Teknoloji w kapab itilize pouw ka kòmanse ak biznis ou](https://youtu.be/SbsQkNnELFI)
+### 11-02 [Teknoloji w kapab itilize pouw ka kòmanse ak biznis ou](https://youtu.be/SbsQkNnELFI)
 * online services you can use to build your business
 
-#### 10.26 [Enpòtans kominikasyon antanke “software engineer”](https://youtu.be/7-vmyKkBjhY)
+#### 10-26 [Enpòtans kominikasyon antanke “software engineer”](https://youtu.be/7-vmyKkBjhY)
 * issue management (Github, Jira, Trello)
 * weekly reports, stand up meeting
 * Git, Slack, etc...
 
-#### 10.19 [Ansanm de Meyè Pratik pou debitan nan teknoloji](https://youtu.be/GHMUOxDD-iU)
+#### 10-19 [Ansanm de Meyè Pratik pou debitan nan teknoloji](https://youtu.be/GHMUOxDD-iU)
 * read more codes
 * learn patterns
 * always check out tutorials for new ideas
 
-#### 10.12 [Diskisyon sou nouvo metòd "Atomic Design"](https://youtu.be/3zZ-tLG4Mgs)
+#### 10-12 [Diskisyon sou nouvo metòd "Atomic Design"](https://youtu.be/3zZ-tLG4Mgs)
 * what is it?
 * how to apply it in software development process
 

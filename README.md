@@ -32,26 +32,26 @@ A series of live chit-chats on *"software development beyong programming laguage
 
 ### 2019 schedule
 
-#### 12.07 [Kisa ki “Pull Request” ye?](https://youtu.be/XzhT5BVerG4)
+#### 12-07 [Kisa ki “Pull Request” ye?](https://youtu.be/XzhT5BVerG4)
 * demo teknikal
 
-#### 11.16 [Kisa ki “Code Review” ye?](https://youtu.be/GiWwfnzWVIA)
+#### 11-16 [Kisa ki “Code Review” ye?](https://youtu.be/GiWwfnzWVIA)
 * demo teknikal
 
-### 11.02 [Teknoloji w kapab itilize pouw ka kòmanse ak biznis ou](https://youtu.be/SbsQkNnELFI)
+### 11-02 [Teknoloji w kapab itilize pouw ka kòmanse ak biznis ou](https://youtu.be/SbsQkNnELFI)
 * s&egrave;vis sou Internet pou biznis ou 
 
-#### 10.26 [Enpòtans kominikasyon antanke “software engineer”](https://youtu.be/7-vmyKkBjhY)
+#### 10-26 [Enpòtans kominikasyon antanke “software engineer”](https://youtu.be/7-vmyKkBjhY)
 * jere tach (Github, Jira, Trello)
 * f&egrave; rap&ograve; chak sem&egrave;n, redevou "stand-up"
 * zouti: Git, Slack, etc...
 
-#### 10.19 [Ansanm de Meyè Pratik pou debitan nan teknoloji](https://youtu.be/GHMUOxDD-iU)
+#### 10-19 [Ansanm de Meyè Pratik pou debitan nan teknoloji](https://youtu.be/GHMUOxDD-iU)
 * li anpil "code"
 * aprann "patterns", diferan "algorithm"
 * toujou tyeke tuto sou Internet pou nouvo ide
 
-#### 10.12 [Diskisyon sou nouvo metòd "Atomic Design"](https://youtu.be/3zZ-tLG4Mgs)
+#### 10-12 [Diskisyon sou nouvo metòd "Atomic Design"](https://youtu.be/3zZ-tLG4Mgs)
 * kisa li ye?
 * k&ograve;man aplike konsepsyon sa nan prosedi "software engineering"
 
