@@ -32,13 +32,13 @@ A series of live chit-chats on *"software development beyong programming laguage
 
 ### 2019 schedule
 
-#### 12-07 [Kisa ki “Pull Request” ye?](https://youtu.be/XzhT5BVerG4)
+#### 12-07 [Kisa ki “Pull Request”?](https://youtu.be/XzhT5BVerG4)
 * technical demo
 
-#### 11-16 [Kisa ki “Code Review” ye?](https://youtu.be/GiWwfnzWVIA)
+#### 11-16 [Kisa “Code Review” ye?](https://youtu.be/GiWwfnzWVIA)
 * technical demo
 
-### 11-02 [Teknoloji w kapab itilize pouw ka kòmanse ak biznis ou](https://youtu.be/SbsQkNnELFI)
+#### 11-02 [Teknoloji w kapab itilize pouw ka kòmanse ak biznis ou](https://youtu.be/SbsQkNnELFI)
 * online services you can use to build your business
 
 #### 10-26 [Enpòtans kominikasyon antanke “software engineer”](https://youtu.be/7-vmyKkBjhY)
