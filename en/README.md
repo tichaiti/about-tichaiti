@@ -19,7 +19,7 @@ Come hangout with us at: [slack.tichaiti.dev](http://slack.tichaiti.dev)
 - we code on Github: [github.com/tichaiti](https://github.com/tichaiti)
 - and we present on Youtube: [(youtube.com/tichaiti)](https://www.youtube.com/channel/UC7HPriaqy3rYKrsqWOxKqEQ)
 
-## Tech-Talks Live
+## Tech-Talks Live _(Saturday Nights)_
 A series of live chit-chats on *"software development beyong programming laguages"*
 
 ### Coming up in 2020 _(starting 01/18)_
