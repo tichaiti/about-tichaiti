@@ -20,5 +20,5 @@ Come hangout with us at: [slack.tichaiti.dev](http://slack.tichaiti.dev)
 - we code on Github: [github.com/tichaiti](https://github.com/tichaiti)
 - and we present on Youtube: [youtube.com/tichaiti](https://www.youtube.com/tichaiti)
 
-## Tech-Talks Live _(Saturday Nights)_
+## Tech-Talks Live _(Saturdays 03:30pm)_
 A series of live chit-chats on *"software development beyong programming laguages"*

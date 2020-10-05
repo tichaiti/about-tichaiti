@@ -20,5 +20,5 @@ Pou ou ka chill/hangout av&egrave;k nou, ale sou: [slack.tichaiti.dev](http://sl
 - nou kode sou Github: [github.com/tichaiti](https://github.com/tichaiti)
 - epi prezantasyon nou f&egrave;t sou Youtube: [youtube.com/tichaiti](https://www.youtube.com/tichaiti)
 
-## Tech-Talks Live _(L&egrave; Samdi Swa)_
+## Tech-Talks Live _(L&egrave; Samdi 15:30)_
 A series of live chit-chats on *"software development beyong programming laguages"*
